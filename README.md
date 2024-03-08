@@ -6,12 +6,13 @@
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&amp;logo=SpringBoot&amp;logoColor=white" style="height: 20px;">
 <!-- <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white" style="height: 20px;"> -->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&amp;logo=Spring&amp;logoColor=white" style="height: 20px;">
-<img src="https://img.shields.io/badge/-Oracle-navy"/>
 </p>
 <p align='center'>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" style="height: 20px;">
 <img src="https://img.shields.io/badge/MySQL-333664?style=flat-square&amp;logo=mysql&amp;logoColor=white" style="height: 20px;">
 <img src="https://img.shields.io/badge/Mybatis-000000?style=flat&amp;logo=Fluentd&amp;logoColor=white" style="height: 20px;">
+<img src="https://img.shields.io/badge/-Oracle-navy"/>
+
 
 <!-- <img src="https://img.shields.io/badge/Docker-1572B6?style=flat-square&amp;logo=Docker&amp;logoColor=white" style="height: 20px;">
 <img src="https://img.shields.io/badge/Redis-DB3552?style=flat-square&amp;logo=redis&amp;logoColor=white" style="height: 20px;">
